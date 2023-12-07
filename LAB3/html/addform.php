@@ -10,6 +10,7 @@
     <button type="reset" class="btn btn-danger">CANCLE</button>
 </form>
 
+
 <script>
     $("form").submit(function(e) {
         e.preventDefault();
